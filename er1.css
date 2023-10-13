@@ -1,0 +1,65 @@
+.silc1n {
+  width: 300px;
+  height: 169px;
+  justify-content: center;
+ align: center; 
+}
+.silc2n {background-image: url("https://i.imgur.com/SYOwvks.png");
+  width: 300px;
+  height: 169px;
+  border: 2px solid #595e07;
+      outline: 10px solid #151515;
+    outline-offset: 0px;
+ }
+
+.silcntxt {font-family: 'Barlow', sans-serif;
+  font-size: 7px;
+  text-transform: uppercase;
+  color: #fff;
+  height: 125px;
+  width: 90px;
+   margin-top: 20px;
+  margin-left: 195px;
+  margin-right: 10px;
+  letter-spacing: 1px;
+  line-height: 10px;
+  text-align: justify;
+position:absolute;
+border-left: 1px solid #595e07;
+padding-left: 5px;}
+
+.silcntxt b{font-family: 'Barlow', sans-serif;
+  background-color: #595e07;
+  font-size: 8px;
+  text-transform: uppercase;
+  color: #fff;
+  letter-spacing: 1px;}
+
+.silcntxt e{font-family: 'Barlow', sans-serif;
+  font-size: 8px;
+  background-color: #0e0e0e;
+  text-transform: uppercase;
+  color: #595e07;
+  font-weight: bold;
+  letter-spacing: 1px;}
+
+.silcntxt s{font-family: 'Barlow', sans-serif;
+  font-size: 8px;
+  text-transform: uppercase;
+  color: #595e07;
+  font-weight: bold;
+  letter-spacing: 1px;}
+
+.silcnbtxt {color: #595e07;
+font-family: 'Satisfy', cursive;
+  font-size: 45px;
+  letter-spacing: 2px;
+  line-height: 14px;
+  height: 45px;
+  width: 80px;
+  text-align: center;
+  width: bold;
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 22px;
+position:absolute;}
